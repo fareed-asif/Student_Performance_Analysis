@@ -3,9 +3,9 @@
 
 
 
-\*\*Name:\*\* Your Full Name
+\*\*Name:\*\* Muhammad Fareed
 
-\*\*Roll No:\*\* Your Roll Number
+\*\*Roll No:\*\* SP24-BAI-031
 
 \*\*Course:\*\* AIC270 – Programming for AI
 
